@@ -3,7 +3,7 @@ from apdbot.sample_con import Config
 
 class Config(Config):
     BOT_TOKEN= ""
-    APP_ID = 
-    API_HASH = ""
+    APP_ID = 11792628
+    API_HASH = "752cf9e02d21c275c2728954c62a20e4"
     OWNER_ID = ""
-    AUTH = [556315181, -100088888, -10002252254]
+    AUTH = [2093321027, -606642980]
